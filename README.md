@@ -6,9 +6,13 @@ This Voice Assistant  currently works as an application based and performs basic
 To use this voice assistant, you'll need to have Python installed on your computer. You'll also need to install a few additional packages using pip:
 
 pip install pyttsx3
+
 pip install SpeechRecognition
+
 pip install tkinter
+
 pip install pyjokes
+
 pip install pyaudio
 
 Note: if you have trouble installing pyaudio, you may need to install PortAudio first.
