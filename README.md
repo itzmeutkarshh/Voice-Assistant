@@ -10,6 +10,7 @@ pip install SpeechRecognition
 pip install tkinter
 pip install pyjokes
 pip install pyaudio
+
 Note: if you have trouble installing pyaudio, you may need to install PortAudio first.
 And many other additional packages as shown in the voice.py file
 
